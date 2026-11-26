@@ -1,10 +1,14 @@
 # C-digos-de-Python
 Bienvenidos a este repositorio, el cual muestra códigos de programación en Python, desarrollando problemas en la vida real.
+
 ---
+
 # Problema 1: Nivel de compromiso de sesiones de clientes
 
 **Autor:** Santiago Rache
+
 **Programa:** Ingeniería de Sistemas, UNAD
+
 **Curso:** Fundamentos de Programación (213022_470)
 
 ## Descripción
